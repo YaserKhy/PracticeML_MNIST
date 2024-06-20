@@ -6,4 +6,4 @@ The notebook has 3 sections
 - Model Building : where we build our neural network model.
 - Model Evaluation : where we see the model performance on unseen data.
 
-(Go To Notebook)[https://github.com/YaserKhy/PracticeML_MNIST/blob/main/PracticeML_MNIST.ipynb]
+[Go To Notebook](https://github.com/YaserKhy/PracticeML_MNIST/blob/main/PracticeML_MNIST.ipynb)
